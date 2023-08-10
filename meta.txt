@@ -1,0 +1,5 @@
+Win 10 games: Once the player wins 10 games, this goal will be marked as completed.
+
+Achieve 3 perfect wins: A perfect win is achieved when the player wins without allowing the opponent to make any moves. If the player achieves 3 perfect wins, this goal will be marked as completed.
+
+Play on all board sizes: The game allows players to play on different board sizes (3x3, 4x4, 5x5). The goal is to play at least one game on each board size. Once the player has played on all board sizes, this goal will be marked as completed.
