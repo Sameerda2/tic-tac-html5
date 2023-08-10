@@ -84,4 +84,11 @@
         function cellClick(event) {
             const cell = event.target;
             const row = Math.floor(Array.from(cell.parentNode.children).indexOf(cell) / 3);
-            const col = Array.from(cell.parentNode.children).indexOf(cell) % 
+            const col = Array.from(cell.parentNode.children).indexOf(cell) % 3;
+            makeMove(row, col);
+        }
+
+        document.querySelectorAll('.cell').forEach(cell => cell.addEventListener('click', cellClick));
+    </script>
+</body>
+</html>
