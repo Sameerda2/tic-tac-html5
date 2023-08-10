@@ -1,0 +1,27 @@
+Core Gameplay Loop:
+
+Alto's Adventure is an endless runner snowboarding game set in a serene alpine landscape. The core gameplay loop involves the following elements:
+
+Snowboarding: Players control Alto as he snowboards down a procedurally generated mountainous terrain. The gameplay is centered around maintaining momentum, performing tricks, and avoiding obstacles.
+
+Trick mechnics: Players can perform tricks like flips and grinds by tapping and holding on the screen. Successful tricks earn points, which contribute to the player's score.
+
+Objectives: The game presents players with a series of objectives, such as collecting certain items, performing specific tricks, or traveling a certain distance. Completing objectives rewards players with experience points and in-game currency.
+
+Obstacles and Challenges: The mountain is filled with obstacles such as rocks, chasms, and cliffs. Players must avoid these obstacles to maintain their momentum and continue the run. Challenges like escaping elders and collecting llamas add variety to the gameplay.
+
+Dynamic Weather: The game's time of day and weather conditions change as players progress. This affects visibility and adds an element of challenge.
+
+Progression Loop:
+
+Experience Points (EXP Points): Players earn experience points by completing objectives, performing tricks, and covering distances. As they accumulate experience points, they level up, unlocking new characters with unique abilities.
+
+In-Game Currency: Players collect coins during their runs, which can be used to purchase power-ups, upgrade items, and unlock additional abilities.
+
+Character Abilities: Each character has a special ability that aids in gameplay. These abilities range from magnetizing coins to performing double jumps, enhancing the snowboarding experience.
+
+Meta Loop:
+
+High Scores: The game encourages players to beat their previous high scores, fostering competition and replayability.
+
+Workshops: As players progress, they unlock workshops that provide various benefits like coin bonuses, item upgrades, and discounts on power-ups.
